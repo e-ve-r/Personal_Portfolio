@@ -95,7 +95,7 @@ hr {
     border-radius: 12px;
 }
 
-#contact-links {
+#contacts {
     display: flex;
     justify-content: center;
     gap: 1rem;
